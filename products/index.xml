@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Products on 爾科有限公司</title>
+    <title>所有產品 on 爾科有限公司</title>
     <link>https://errkhealth.com/products/</link>
-    <description>Recent content in All Products on 爾科有限公司</description>
+    <description>Recent content in 所有產品 on 爾科有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://errkhealth.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CRM</title>
+      <title>高齡化與慢性疾病</title>
       <link>https://errkhealth.com/products/product-1/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Help Desk</title>
+      <title>肌筋膜與慢性痠痛</title>
       <link>https://errkhealth.com/products/product-2/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Workplace</title>
+      <title>肥胖與睡眠醫學</title>
       <link>https://errkhealth.com/products/product-3/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Analytics</title>
+      <title>健康檢查自動化報告</title>
       <link>https://errkhealth.com/products/product-4/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       
